@@ -1,5 +1,7 @@
 # Trabalhando com Branches e Stash
 
+⚠️readme em andamento⚠️
+
 [Criando branches](#criando_branches) • 
 [Deletando branches](#deletando_branches) • 
 [Mudando de branch](#mudando_de_branch) • 
