@@ -1,10 +1,5 @@
 # Git fundamental 
 
-[Criando repositório](#criando_um_repositorio) •
-[Verificando alterações](#github) •
-[Recebendo alterações](#elmasri) •
-[Clonando repositórios](#Clonando_repositórios)
-
 ## Criando um repositório
 
 ```git
