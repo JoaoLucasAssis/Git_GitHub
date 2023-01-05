@@ -36,3 +36,29 @@ git merge <nome_da_branch>
 ```
 
 `git merge <nome_da_branch>` - junta duas ou mais branchs, se os arquivos existentes forem compatíveis
+
+## Utilizando stash
+
+```git
+git stash
+```
+
+`git stash` - separa as novas atualizações do diretório
+
+## Recuperando stash
+
+```git
+git stash list
+git stash apply <numero>
+```
+
+`git stash list` - retorna uma lista de stash "salvos"
+`git stash apply <numero>` - retorna o stash para o diretório
+
+## Removendo stash
+
+```git
+git stash drop <numero>
+```
+
+`git stash drop <numero>` - deleta o stash da lista
