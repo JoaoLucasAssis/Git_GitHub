@@ -1,4 +1,16 @@
-# Trabalhando com Branches
+# Trabalhando com Branches e Stash
+
+<div align="center">
+    [Criando branches](#criando_branches) • 
+    [Deletando branches](#deletando_branches) • 
+    [Mudando de branch](#mudando_de_branch) • 
+    [Unindo branches](#unindo_branches)
+</div>
+<div align="center">
+[Utilizando stash](#utilizando_stash) • 
+[Recuperando stash](#recuperando_stash) • 
+[Removendo stash](#removendo_stash)
+</div>
 
 ## Criando branches
 
