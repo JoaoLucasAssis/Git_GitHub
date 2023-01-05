@@ -6,7 +6,7 @@
 [Unindo branches](#unindo_branches) • 
 [Utilizando stash](#utilizando_stash) • 
 [Recuperando stash](#recuperando_stash) • 
-[Removendo_stash](#removendo_stash)
+[Removendo stash](#removendo_stash)
 
 ## Criando branches
 
