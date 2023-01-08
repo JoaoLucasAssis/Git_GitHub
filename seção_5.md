@@ -1,5 +1,12 @@
-aprendendo sobre git stash
-git stash - separa as novas atualizações do codigo principal
-git stash list - retorna uma lista de stash "salvos"
-git stash apply *number* - retorna o stash para o codigo principal
-git stash drop *number* - deleta o stash da lista
+# Análise e inspeção de repositórios
+
+## - Exibir detalhes de branch e tags
+
+```git
+git show
+git show <tag>
+```
+
+`git show` - traz informações dos commits na branch atual
+
+`git show <tag>` - traz informações das diferenças entre tags
