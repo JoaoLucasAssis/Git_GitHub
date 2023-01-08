@@ -55,6 +55,7 @@ git stash apply <numero>
 ```
 
 `git stash list` - retorna uma lista de stash "salvos"
+
 `git stash apply <numero>` - retorna o stash para o diretório
 
 ## - Removendo stash
