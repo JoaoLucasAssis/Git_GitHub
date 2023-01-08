@@ -67,13 +67,13 @@ git stash drop <numero>
 
 # Utilizando tags
 
-Utilizadas para **demarcar** os estágios de desenvolvimento
+* Utilizadas para **demarcar** os estágios de desenvolvimento
 
-Também utilizada como ponto de marcação e recuperação do projeto
+* Também utilizada como ponto de marcação e recuperação do projeto
 
-Utilizar tags após os commits
+* Utilizar tags após os commits
 
-Para bom costume, usar (*v1.0*, *v2.0*, *...*) para os nomes das tags
+* Para bom costume, usar (*v1.0*, *v2.0*, *...*) para os nomes das tags
 
 ```git
 git tag -a <nome> -m "<msg>"
@@ -97,7 +97,7 @@ git checkout <nome>
 
 ## - Enviando tags ao repositório
 
-Serve para outros desenvolvedores acompanharem o desenvolvimento dos seus códigos
+* Serve para outros desenvolvedores acompanharem o desenvolvimento dos seus códigos
 
 ```git
 git push origin <nome>
