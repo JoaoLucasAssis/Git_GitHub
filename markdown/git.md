@@ -1,6 +1,6 @@
 # Git fundamental 
 
-## Criando um repositório
+## - Criando um repositório
 
 ```git
 git init 
@@ -19,7 +19,7 @@ git push -u origin main
 
 `git push` - envia os arquivos registrados para o repositório
 
-## Verificando alterações
+## - Verificando alterações
 
 ```git
 git status
@@ -29,7 +29,7 @@ git log
 
 `git log` - retorna informações dos commits realizados
 
-## Recebendo alterações
+## - Recebendo alterações
 
 ```git
 git pull
@@ -38,7 +38,7 @@ git pull
 `git pull` - retorna alterações feitas no repositório para o diretório
 
 
-## Clonando repositórios
+## - Clonando repositórios
 
 ```git
 git clone (url) .
