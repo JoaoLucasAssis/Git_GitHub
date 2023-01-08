@@ -23,3 +23,11 @@ git diff <arquivo> <arquivo_b>
 `git diff <branch>` - exibe as diferenças entre o branch atual e outro
 
 `git diff <arquivo> <arquivo_b>` - exibe a diferença entre arquivos
+
+## - Log das atividades resumido
+
+```git
+git shortlog
+```
+
+`git shortlog` - retorna um resumo dos commits e dos autores
